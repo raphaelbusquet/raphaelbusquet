@@ -1,12 +1,15 @@
-### Olá meus amigos! 👋
+# Olá meus amigos! 👋
 
-## Eu sou um estudante autodidata de progrmação a mais ou menos 3 anos e criei uma conta aqui no GitHub para publicar meus estudos e alguns projetos em que estou trabalhando. 
+### Eu sou um estudante autodidata de programação há mais ou menos 3 anos e criei uma conta aqui no GitHub para publicar meus estudos e alguns projetos em que estou trabalhando. 
 
-Espero que gostem! 
+#### Linguagens:
+* JavaScript, HTML e CSS3 
+* Python
 
-# Minhas redes sociais: 
+#### Minhas redes sociais: 
  
-  * Instagram <a href="https://instagram.com/raphaelbusquet">
-  * Twitter <a href="https://twitter.com/raphaelbusquet">
+  * <a href="https://instagram.com/raphaelbusquet">Instagram</a>
+  * <a href="https://twitter.com/raphaelbusquet">Twitter</a>
  
-                        
+        
+ ##  🖖 Espero que gostem! 
