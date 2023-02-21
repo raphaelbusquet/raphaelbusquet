@@ -1,4 +1,4 @@
-# Olá meus amigos! 👋
+# Olá amigos! 🖖
 
 ### Eu sou um estudante autodidata de programação há mais ou menos 3 anos e criei uma conta aqui no GitHub para publicar meus estudos e alguns projetos em que estou trabalhando. 
 
@@ -12,4 +12,4 @@
   * <a href="https://twitter.com/raphaelbusquet">Twitter</a>
  
         
- ##  🖖 Espero que gostem! 
+ ##  Espero que gostem! 👨‍💻 
