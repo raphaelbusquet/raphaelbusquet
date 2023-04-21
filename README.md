@@ -10,13 +10,7 @@
  
  https://raphaelbusquet.netlify.app/
 
-- 🔍I’m currently looking for my first job with Front-end  
-  
-
-- 📚 I’m currently learning React  
-  
-
-- ♟️Interest fact: I play blind chees   
+- ♟️Interest fact: I play chees   
   
 
 <br/>  
