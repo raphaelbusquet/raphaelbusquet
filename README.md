@@ -10,7 +10,7 @@
  
  https://raphaelbusquet.netlify.app/
 
-- ♟️Interest fact: I play chees   
+- ♟️Interest fact: I love chees   
   
 
 <br/>  
