@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center"> 👨‍💻  I'm a self-taught student of programming for about 3 years now and I created an account here on GitHub to publish my studies and some projects I'm working on. 🚀</div>  
+### <div align="center"> 👨‍💻  I'm a student of programming for about 3 years now and I created an account here on GitHub to publish my studies and some projects I'm working on. 🚀</div>  
 
   
  ### See my Potfolio site here: 
