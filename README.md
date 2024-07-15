@@ -3,9 +3,9 @@
 </div>  
   
 
-### <div align="center"> 👨‍💻  I'm a student of programming for about 3 years and I created this GitHub account to publish my studies and some projects I'm working on. Hope you like it! 🚀</div>  
+### <div align="center"> 👨‍💻  I've been a frontend Developer for about 3 years and created this GitHub account to publish my studies and some projects I'm working on. Hope you like it! 🚀</div>  
 
 <br />
 
-- ♟️Interest fact: I play chess and some instruments, such as guitar, drums and keyboard;   
+- ♟️Interest fact: I play chess and some instruments, such as guitar, drums, and keyboard;   
   
