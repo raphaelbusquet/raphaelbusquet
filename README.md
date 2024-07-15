@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center"> 👨‍💻  I've been a frontend Developer for about 3 years and created this GitHub account to publish my studies and some projects I'm working on. Hope you like it! 🚀</div>  
+### <div align="center"> 👨‍💻  I've been a developer for about 3 years and created this GitHub account to publish my studies and some projects I'm working on. Hope you like it! 🚀</div>  
 
 <br />
 
